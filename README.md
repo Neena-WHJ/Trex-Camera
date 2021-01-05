@@ -1,2 +1,2 @@
-# Trex-Camera
-Trex Game with Camera Positions
+# trex
+Chrome's trex game created using p5.play
